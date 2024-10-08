@@ -3,12 +3,14 @@
 Costy, kullanıcıların çeşitli eşofman takımlarını görüntüleyebileceği, sepete ekleyip çıkarabileceği ve sepetten ürün silebileceği bir e-ticaret web sitesidir. Proje HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
 # Özellikler:
+
 -Ürünleri listeleme
 -Ürünleri sepete ekleme ve çıkarma
 -Sepetten ürün silme
 -Kullanıcı dostu ve mobil uyumlu tasarım
 
 # Kullanılan Teknolojiler:
+
 -HTML
 -CSS
 -JavaScript
